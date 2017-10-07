@@ -89,7 +89,7 @@
             <Path fileType="library">/usr/lib64/ghc-8.0.1/gio-0.13.3.1/System/GIO/Volumes/VolumeMonitor.chi</Path>
             <Path fileType="library">/usr/lib64/ghc-8.0.1/gio-0.13.3.1/System/GIO/Volumes/VolumeMonitor.dyn_hi</Path>
             <Path fileType="library">/usr/lib64/ghc-8.0.1/gio-0.13.3.1/System/GIO/Volumes/VolumeMonitor.hi</Path>
-            <Path fileType="library">/usr/lib64/ghc-8.0.1/gio-0.13.3.1/libHSgio-0.13.3.1-7caZHudEPq5H95MmJePFd9-ghc8.0.1.so</Path>
+            <Path fileType="library">/usr/lib64/ghc-8.0.1/gio-0.13.3.1/libHSgio-0.13.3.1-PAF3B25eO6DqABuZgl5a3-ghc8.0.1.so</Path>
             <Path fileType="library">/usr/lib64/ghc-8.0.1/package.conf.d/haskell-gio-0.13.3.1.conf</Path>
             <Path fileType="doc">/usr/share/doc</Path>
             <Path fileType="data">/usr/share/x86_64-linux-ghc-8.0.1/gio-0.13.3.1/FileManager.hs</Path>
@@ -103,15 +103,15 @@
 </Description>
         <PartOf>programming.devel</PartOf>
         <RuntimeDependencies>
-            <Dependency release="1">haskell-gio</Dependency>
+            <Dependency release="2">haskell-gio</Dependency>
         </RuntimeDependencies>
         <Files>
             <Path fileType="library">/usr/lib64/ghc-*/*/*.a</Path>
         </Files>
     </Package>
     <History>
-        <Update release="1">
-            <Date>2017-04-06</Date>
+        <Update release="2">
+            <Date>2017-10-07</Date>
             <Version>0.13.3.1</Version>
             <Comment>Packaging update</Comment>
             <Name>Bryan T. Meyers</Name>
