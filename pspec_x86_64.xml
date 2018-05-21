@@ -19,81 +19,81 @@
 </Description>
         <PartOf>programming.haskell</PartOf>
         <Files>
-            <Path fileType="library">/usr/lib64/ghc-8.0.1/gio-0.13.5.0/System/GIO.dyn_hi</Path>
-            <Path fileType="library">/usr/lib64/ghc-8.0.1/gio-0.13.5.0/System/GIO.hi</Path>
-            <Path fileType="library">/usr/lib64/ghc-8.0.1/gio-0.13.5.0/System/GIO/Async/AsyncResult.chi</Path>
-            <Path fileType="library">/usr/lib64/ghc-8.0.1/gio-0.13.5.0/System/GIO/Async/AsyncResult.dyn_hi</Path>
-            <Path fileType="library">/usr/lib64/ghc-8.0.1/gio-0.13.5.0/System/GIO/Async/AsyncResult.hi</Path>
-            <Path fileType="library">/usr/lib64/ghc-8.0.1/gio-0.13.5.0/System/GIO/Async/Cancellable.chi</Path>
-            <Path fileType="library">/usr/lib64/ghc-8.0.1/gio-0.13.5.0/System/GIO/Async/Cancellable.dyn_hi</Path>
-            <Path fileType="library">/usr/lib64/ghc-8.0.1/gio-0.13.5.0/System/GIO/Async/Cancellable.hi</Path>
-            <Path fileType="library">/usr/lib64/ghc-8.0.1/gio-0.13.5.0/System/GIO/Enums.chi</Path>
-            <Path fileType="library">/usr/lib64/ghc-8.0.1/gio-0.13.5.0/System/GIO/Enums.dyn_hi</Path>
-            <Path fileType="library">/usr/lib64/ghc-8.0.1/gio-0.13.5.0/System/GIO/Enums.hi</Path>
-            <Path fileType="library">/usr/lib64/ghc-8.0.1/gio-0.13.5.0/System/GIO/File/AppInfo.chi</Path>
-            <Path fileType="library">/usr/lib64/ghc-8.0.1/gio-0.13.5.0/System/GIO/File/AppInfo.dyn_hi</Path>
-            <Path fileType="library">/usr/lib64/ghc-8.0.1/gio-0.13.5.0/System/GIO/File/AppInfo.hi</Path>
-            <Path fileType="library">/usr/lib64/ghc-8.0.1/gio-0.13.5.0/System/GIO/File/ContentType.chi</Path>
-            <Path fileType="library">/usr/lib64/ghc-8.0.1/gio-0.13.5.0/System/GIO/File/ContentType.dyn_hi</Path>
-            <Path fileType="library">/usr/lib64/ghc-8.0.1/gio-0.13.5.0/System/GIO/File/ContentType.hi</Path>
-            <Path fileType="library">/usr/lib64/ghc-8.0.1/gio-0.13.5.0/System/GIO/File/File.chi</Path>
-            <Path fileType="library">/usr/lib64/ghc-8.0.1/gio-0.13.5.0/System/GIO/File/File.dyn_hi</Path>
-            <Path fileType="library">/usr/lib64/ghc-8.0.1/gio-0.13.5.0/System/GIO/File/File.hi</Path>
-            <Path fileType="library">/usr/lib64/ghc-8.0.1/gio-0.13.5.0/System/GIO/File/FileAttribute.dyn_hi</Path>
-            <Path fileType="library">/usr/lib64/ghc-8.0.1/gio-0.13.5.0/System/GIO/File/FileAttribute.hi</Path>
-            <Path fileType="library">/usr/lib64/ghc-8.0.1/gio-0.13.5.0/System/GIO/File/FileEnumerator.chi</Path>
-            <Path fileType="library">/usr/lib64/ghc-8.0.1/gio-0.13.5.0/System/GIO/File/FileEnumerator.dyn_hi</Path>
-            <Path fileType="library">/usr/lib64/ghc-8.0.1/gio-0.13.5.0/System/GIO/File/FileEnumerator.hi</Path>
-            <Path fileType="library">/usr/lib64/ghc-8.0.1/gio-0.13.5.0/System/GIO/File/FileInfo.chi</Path>
-            <Path fileType="library">/usr/lib64/ghc-8.0.1/gio-0.13.5.0/System/GIO/File/FileInfo.dyn_hi</Path>
-            <Path fileType="library">/usr/lib64/ghc-8.0.1/gio-0.13.5.0/System/GIO/File/FileInfo.hi</Path>
-            <Path fileType="library">/usr/lib64/ghc-8.0.1/gio-0.13.5.0/System/GIO/File/FileMonitor.chi</Path>
-            <Path fileType="library">/usr/lib64/ghc-8.0.1/gio-0.13.5.0/System/GIO/File/FileMonitor.dyn_hi</Path>
-            <Path fileType="library">/usr/lib64/ghc-8.0.1/gio-0.13.5.0/System/GIO/File/FileMonitor.hi</Path>
-            <Path fileType="library">/usr/lib64/ghc-8.0.1/gio-0.13.5.0/System/GIO/File/IOError.chi</Path>
-            <Path fileType="library">/usr/lib64/ghc-8.0.1/gio-0.13.5.0/System/GIO/File/IOError.dyn_hi</Path>
-            <Path fileType="library">/usr/lib64/ghc-8.0.1/gio-0.13.5.0/System/GIO/File/IOError.hi</Path>
-            <Path fileType="library">/usr/lib64/ghc-8.0.1/gio-0.13.5.0/System/GIO/File/MountOperation.chi</Path>
-            <Path fileType="library">/usr/lib64/ghc-8.0.1/gio-0.13.5.0/System/GIO/File/MountOperation.dyn_hi</Path>
-            <Path fileType="library">/usr/lib64/ghc-8.0.1/gio-0.13.5.0/System/GIO/File/MountOperation.hi</Path>
-            <Path fileType="library">/usr/lib64/ghc-8.0.1/gio-0.13.5.0/System/GIO/Icons/Emblem.chi</Path>
-            <Path fileType="library">/usr/lib64/ghc-8.0.1/gio-0.13.5.0/System/GIO/Icons/Emblem.dyn_hi</Path>
-            <Path fileType="library">/usr/lib64/ghc-8.0.1/gio-0.13.5.0/System/GIO/Icons/Emblem.hi</Path>
-            <Path fileType="library">/usr/lib64/ghc-8.0.1/gio-0.13.5.0/System/GIO/Icons/EmblemedIcon.chi</Path>
-            <Path fileType="library">/usr/lib64/ghc-8.0.1/gio-0.13.5.0/System/GIO/Icons/EmblemedIcon.dyn_hi</Path>
-            <Path fileType="library">/usr/lib64/ghc-8.0.1/gio-0.13.5.0/System/GIO/Icons/EmblemedIcon.hi</Path>
-            <Path fileType="library">/usr/lib64/ghc-8.0.1/gio-0.13.5.0/System/GIO/Icons/FileIcon.chi</Path>
-            <Path fileType="library">/usr/lib64/ghc-8.0.1/gio-0.13.5.0/System/GIO/Icons/FileIcon.dyn_hi</Path>
-            <Path fileType="library">/usr/lib64/ghc-8.0.1/gio-0.13.5.0/System/GIO/Icons/FileIcon.hi</Path>
-            <Path fileType="library">/usr/lib64/ghc-8.0.1/gio-0.13.5.0/System/GIO/Icons/Icon.chi</Path>
-            <Path fileType="library">/usr/lib64/ghc-8.0.1/gio-0.13.5.0/System/GIO/Icons/Icon.dyn_hi</Path>
-            <Path fileType="library">/usr/lib64/ghc-8.0.1/gio-0.13.5.0/System/GIO/Icons/Icon.hi</Path>
-            <Path fileType="library">/usr/lib64/ghc-8.0.1/gio-0.13.5.0/System/GIO/Icons/ThemedIcon.chi</Path>
-            <Path fileType="library">/usr/lib64/ghc-8.0.1/gio-0.13.5.0/System/GIO/Icons/ThemedIcon.dyn_hi</Path>
-            <Path fileType="library">/usr/lib64/ghc-8.0.1/gio-0.13.5.0/System/GIO/Icons/ThemedIcon.hi</Path>
-            <Path fileType="library">/usr/lib64/ghc-8.0.1/gio-0.13.5.0/System/GIO/Signals.chi</Path>
-            <Path fileType="library">/usr/lib64/ghc-8.0.1/gio-0.13.5.0/System/GIO/Signals.dyn_hi</Path>
-            <Path fileType="library">/usr/lib64/ghc-8.0.1/gio-0.13.5.0/System/GIO/Signals.hi</Path>
-            <Path fileType="library">/usr/lib64/ghc-8.0.1/gio-0.13.5.0/System/GIO/Types.chi</Path>
-            <Path fileType="library">/usr/lib64/ghc-8.0.1/gio-0.13.5.0/System/GIO/Types.dyn_hi</Path>
-            <Path fileType="library">/usr/lib64/ghc-8.0.1/gio-0.13.5.0/System/GIO/Types.hi</Path>
-            <Path fileType="library">/usr/lib64/ghc-8.0.1/gio-0.13.5.0/System/GIO/Volumes/Drive.chi</Path>
-            <Path fileType="library">/usr/lib64/ghc-8.0.1/gio-0.13.5.0/System/GIO/Volumes/Drive.dyn_hi</Path>
-            <Path fileType="library">/usr/lib64/ghc-8.0.1/gio-0.13.5.0/System/GIO/Volumes/Drive.hi</Path>
-            <Path fileType="library">/usr/lib64/ghc-8.0.1/gio-0.13.5.0/System/GIO/Volumes/Mount.chi</Path>
-            <Path fileType="library">/usr/lib64/ghc-8.0.1/gio-0.13.5.0/System/GIO/Volumes/Mount.dyn_hi</Path>
-            <Path fileType="library">/usr/lib64/ghc-8.0.1/gio-0.13.5.0/System/GIO/Volumes/Mount.hi</Path>
-            <Path fileType="library">/usr/lib64/ghc-8.0.1/gio-0.13.5.0/System/GIO/Volumes/Volume.chi</Path>
-            <Path fileType="library">/usr/lib64/ghc-8.0.1/gio-0.13.5.0/System/GIO/Volumes/Volume.dyn_hi</Path>
-            <Path fileType="library">/usr/lib64/ghc-8.0.1/gio-0.13.5.0/System/GIO/Volumes/Volume.hi</Path>
-            <Path fileType="library">/usr/lib64/ghc-8.0.1/gio-0.13.5.0/System/GIO/Volumes/VolumeMonitor.chi</Path>
-            <Path fileType="library">/usr/lib64/ghc-8.0.1/gio-0.13.5.0/System/GIO/Volumes/VolumeMonitor.dyn_hi</Path>
-            <Path fileType="library">/usr/lib64/ghc-8.0.1/gio-0.13.5.0/System/GIO/Volumes/VolumeMonitor.hi</Path>
-            <Path fileType="library">/usr/lib64/ghc-8.0.1/gio-0.13.5.0/libHSgio-0.13.5.0-3XejIZ1Ku34WaahmgEiJO-ghc8.0.1.so</Path>
-            <Path fileType="library">/usr/lib64/ghc-8.0.1/package.conf.d/haskell-gio-0.13.5.0.conf</Path>
+            <Path fileType="library">/usr/lib64/ghc-8.2.2/gio-0.13.5.0/System/GIO.dyn_hi</Path>
+            <Path fileType="library">/usr/lib64/ghc-8.2.2/gio-0.13.5.0/System/GIO.hi</Path>
+            <Path fileType="library">/usr/lib64/ghc-8.2.2/gio-0.13.5.0/System/GIO/Async/AsyncResult.chi</Path>
+            <Path fileType="library">/usr/lib64/ghc-8.2.2/gio-0.13.5.0/System/GIO/Async/AsyncResult.dyn_hi</Path>
+            <Path fileType="library">/usr/lib64/ghc-8.2.2/gio-0.13.5.0/System/GIO/Async/AsyncResult.hi</Path>
+            <Path fileType="library">/usr/lib64/ghc-8.2.2/gio-0.13.5.0/System/GIO/Async/Cancellable.chi</Path>
+            <Path fileType="library">/usr/lib64/ghc-8.2.2/gio-0.13.5.0/System/GIO/Async/Cancellable.dyn_hi</Path>
+            <Path fileType="library">/usr/lib64/ghc-8.2.2/gio-0.13.5.0/System/GIO/Async/Cancellable.hi</Path>
+            <Path fileType="library">/usr/lib64/ghc-8.2.2/gio-0.13.5.0/System/GIO/Enums.chi</Path>
+            <Path fileType="library">/usr/lib64/ghc-8.2.2/gio-0.13.5.0/System/GIO/Enums.dyn_hi</Path>
+            <Path fileType="library">/usr/lib64/ghc-8.2.2/gio-0.13.5.0/System/GIO/Enums.hi</Path>
+            <Path fileType="library">/usr/lib64/ghc-8.2.2/gio-0.13.5.0/System/GIO/File/AppInfo.chi</Path>
+            <Path fileType="library">/usr/lib64/ghc-8.2.2/gio-0.13.5.0/System/GIO/File/AppInfo.dyn_hi</Path>
+            <Path fileType="library">/usr/lib64/ghc-8.2.2/gio-0.13.5.0/System/GIO/File/AppInfo.hi</Path>
+            <Path fileType="library">/usr/lib64/ghc-8.2.2/gio-0.13.5.0/System/GIO/File/ContentType.chi</Path>
+            <Path fileType="library">/usr/lib64/ghc-8.2.2/gio-0.13.5.0/System/GIO/File/ContentType.dyn_hi</Path>
+            <Path fileType="library">/usr/lib64/ghc-8.2.2/gio-0.13.5.0/System/GIO/File/ContentType.hi</Path>
+            <Path fileType="library">/usr/lib64/ghc-8.2.2/gio-0.13.5.0/System/GIO/File/File.chi</Path>
+            <Path fileType="library">/usr/lib64/ghc-8.2.2/gio-0.13.5.0/System/GIO/File/File.dyn_hi</Path>
+            <Path fileType="library">/usr/lib64/ghc-8.2.2/gio-0.13.5.0/System/GIO/File/File.hi</Path>
+            <Path fileType="library">/usr/lib64/ghc-8.2.2/gio-0.13.5.0/System/GIO/File/FileAttribute.dyn_hi</Path>
+            <Path fileType="library">/usr/lib64/ghc-8.2.2/gio-0.13.5.0/System/GIO/File/FileAttribute.hi</Path>
+            <Path fileType="library">/usr/lib64/ghc-8.2.2/gio-0.13.5.0/System/GIO/File/FileEnumerator.chi</Path>
+            <Path fileType="library">/usr/lib64/ghc-8.2.2/gio-0.13.5.0/System/GIO/File/FileEnumerator.dyn_hi</Path>
+            <Path fileType="library">/usr/lib64/ghc-8.2.2/gio-0.13.5.0/System/GIO/File/FileEnumerator.hi</Path>
+            <Path fileType="library">/usr/lib64/ghc-8.2.2/gio-0.13.5.0/System/GIO/File/FileInfo.chi</Path>
+            <Path fileType="library">/usr/lib64/ghc-8.2.2/gio-0.13.5.0/System/GIO/File/FileInfo.dyn_hi</Path>
+            <Path fileType="library">/usr/lib64/ghc-8.2.2/gio-0.13.5.0/System/GIO/File/FileInfo.hi</Path>
+            <Path fileType="library">/usr/lib64/ghc-8.2.2/gio-0.13.5.0/System/GIO/File/FileMonitor.chi</Path>
+            <Path fileType="library">/usr/lib64/ghc-8.2.2/gio-0.13.5.0/System/GIO/File/FileMonitor.dyn_hi</Path>
+            <Path fileType="library">/usr/lib64/ghc-8.2.2/gio-0.13.5.0/System/GIO/File/FileMonitor.hi</Path>
+            <Path fileType="library">/usr/lib64/ghc-8.2.2/gio-0.13.5.0/System/GIO/File/IOError.chi</Path>
+            <Path fileType="library">/usr/lib64/ghc-8.2.2/gio-0.13.5.0/System/GIO/File/IOError.dyn_hi</Path>
+            <Path fileType="library">/usr/lib64/ghc-8.2.2/gio-0.13.5.0/System/GIO/File/IOError.hi</Path>
+            <Path fileType="library">/usr/lib64/ghc-8.2.2/gio-0.13.5.0/System/GIO/File/MountOperation.chi</Path>
+            <Path fileType="library">/usr/lib64/ghc-8.2.2/gio-0.13.5.0/System/GIO/File/MountOperation.dyn_hi</Path>
+            <Path fileType="library">/usr/lib64/ghc-8.2.2/gio-0.13.5.0/System/GIO/File/MountOperation.hi</Path>
+            <Path fileType="library">/usr/lib64/ghc-8.2.2/gio-0.13.5.0/System/GIO/Icons/Emblem.chi</Path>
+            <Path fileType="library">/usr/lib64/ghc-8.2.2/gio-0.13.5.0/System/GIO/Icons/Emblem.dyn_hi</Path>
+            <Path fileType="library">/usr/lib64/ghc-8.2.2/gio-0.13.5.0/System/GIO/Icons/Emblem.hi</Path>
+            <Path fileType="library">/usr/lib64/ghc-8.2.2/gio-0.13.5.0/System/GIO/Icons/EmblemedIcon.chi</Path>
+            <Path fileType="library">/usr/lib64/ghc-8.2.2/gio-0.13.5.0/System/GIO/Icons/EmblemedIcon.dyn_hi</Path>
+            <Path fileType="library">/usr/lib64/ghc-8.2.2/gio-0.13.5.0/System/GIO/Icons/EmblemedIcon.hi</Path>
+            <Path fileType="library">/usr/lib64/ghc-8.2.2/gio-0.13.5.0/System/GIO/Icons/FileIcon.chi</Path>
+            <Path fileType="library">/usr/lib64/ghc-8.2.2/gio-0.13.5.0/System/GIO/Icons/FileIcon.dyn_hi</Path>
+            <Path fileType="library">/usr/lib64/ghc-8.2.2/gio-0.13.5.0/System/GIO/Icons/FileIcon.hi</Path>
+            <Path fileType="library">/usr/lib64/ghc-8.2.2/gio-0.13.5.0/System/GIO/Icons/Icon.chi</Path>
+            <Path fileType="library">/usr/lib64/ghc-8.2.2/gio-0.13.5.0/System/GIO/Icons/Icon.dyn_hi</Path>
+            <Path fileType="library">/usr/lib64/ghc-8.2.2/gio-0.13.5.0/System/GIO/Icons/Icon.hi</Path>
+            <Path fileType="library">/usr/lib64/ghc-8.2.2/gio-0.13.5.0/System/GIO/Icons/ThemedIcon.chi</Path>
+            <Path fileType="library">/usr/lib64/ghc-8.2.2/gio-0.13.5.0/System/GIO/Icons/ThemedIcon.dyn_hi</Path>
+            <Path fileType="library">/usr/lib64/ghc-8.2.2/gio-0.13.5.0/System/GIO/Icons/ThemedIcon.hi</Path>
+            <Path fileType="library">/usr/lib64/ghc-8.2.2/gio-0.13.5.0/System/GIO/Signals.chi</Path>
+            <Path fileType="library">/usr/lib64/ghc-8.2.2/gio-0.13.5.0/System/GIO/Signals.dyn_hi</Path>
+            <Path fileType="library">/usr/lib64/ghc-8.2.2/gio-0.13.5.0/System/GIO/Signals.hi</Path>
+            <Path fileType="library">/usr/lib64/ghc-8.2.2/gio-0.13.5.0/System/GIO/Types.chi</Path>
+            <Path fileType="library">/usr/lib64/ghc-8.2.2/gio-0.13.5.0/System/GIO/Types.dyn_hi</Path>
+            <Path fileType="library">/usr/lib64/ghc-8.2.2/gio-0.13.5.0/System/GIO/Types.hi</Path>
+            <Path fileType="library">/usr/lib64/ghc-8.2.2/gio-0.13.5.0/System/GIO/Volumes/Drive.chi</Path>
+            <Path fileType="library">/usr/lib64/ghc-8.2.2/gio-0.13.5.0/System/GIO/Volumes/Drive.dyn_hi</Path>
+            <Path fileType="library">/usr/lib64/ghc-8.2.2/gio-0.13.5.0/System/GIO/Volumes/Drive.hi</Path>
+            <Path fileType="library">/usr/lib64/ghc-8.2.2/gio-0.13.5.0/System/GIO/Volumes/Mount.chi</Path>
+            <Path fileType="library">/usr/lib64/ghc-8.2.2/gio-0.13.5.0/System/GIO/Volumes/Mount.dyn_hi</Path>
+            <Path fileType="library">/usr/lib64/ghc-8.2.2/gio-0.13.5.0/System/GIO/Volumes/Mount.hi</Path>
+            <Path fileType="library">/usr/lib64/ghc-8.2.2/gio-0.13.5.0/System/GIO/Volumes/Volume.chi</Path>
+            <Path fileType="library">/usr/lib64/ghc-8.2.2/gio-0.13.5.0/System/GIO/Volumes/Volume.dyn_hi</Path>
+            <Path fileType="library">/usr/lib64/ghc-8.2.2/gio-0.13.5.0/System/GIO/Volumes/Volume.hi</Path>
+            <Path fileType="library">/usr/lib64/ghc-8.2.2/gio-0.13.5.0/System/GIO/Volumes/VolumeMonitor.chi</Path>
+            <Path fileType="library">/usr/lib64/ghc-8.2.2/gio-0.13.5.0/System/GIO/Volumes/VolumeMonitor.dyn_hi</Path>
+            <Path fileType="library">/usr/lib64/ghc-8.2.2/gio-0.13.5.0/System/GIO/Volumes/VolumeMonitor.hi</Path>
+            <Path fileType="library">/usr/lib64/ghc-8.2.2/package.conf.d/haskell-gio-0.13.5.0.conf</Path>
+            <Path fileType="library">/usr/lib64/x86_64-linux-ghc-8.2.2/libHSgio-0.13.5.0-I191oV6fU9VA5BdroC2nOq-ghc8.2.2.so</Path>
             <Path fileType="doc">/usr/share/doc</Path>
-            <Path fileType="data">/usr/share/x86_64-linux-ghc-8.0.1/gio-0.13.5.0/FileManager.hs</Path>
-            <Path fileType="data">/usr/share/x86_64-linux-ghc-8.0.1/gio-0.13.5.0/Makefile</Path>
+            <Path fileType="data">/usr/share/x86_64-linux-ghc-8.2.2/gio-0.13.5.0/FileManager.hs</Path>
+            <Path fileType="data">/usr/share/x86_64-linux-ghc-8.2.2/gio-0.13.5.0/Makefile</Path>
         </Files>
     </Package>
     <Package>
@@ -103,15 +103,15 @@
 </Description>
         <PartOf>programming.devel</PartOf>
         <RuntimeDependencies>
-            <Dependency release="3">haskell-gio</Dependency>
+            <Dependency release="4">haskell-gio</Dependency>
         </RuntimeDependencies>
         <Files>
             <Path fileType="library">/usr/lib64/ghc-*/*/*.a</Path>
         </Files>
     </Package>
     <History>
-        <Update release="3">
-            <Date>2018-04-28</Date>
+        <Update release="4">
+            <Date>2018-05-21</Date>
             <Version>0.13.5.0</Version>
             <Comment>Packaging update</Comment>
             <Name>Bryan T. Meyers</Name>
